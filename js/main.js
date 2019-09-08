@@ -63,5 +63,3 @@ $(document).ready(function () {
     $("div.container-fluid.body").load(("html/" + this.id + ".html"));
   });
 });
-
-
